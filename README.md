@@ -5,5 +5,5 @@
 
 ## やったこと
 
-* 背景差分のラベリング: (リンク):(https://github.com/Kei-Fujikura/opencv_sample/sample)
+* 背景差分のラベリング: [リンク]:(https://github.com/Kei-Fujikura/opencv_sample/tree/master/sample/webcam_labeling_and_stats "Webcam_labeling")
 * ???
